@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int Add(int a, int b) {
-    return a + b; // 결과 반환
-}
+//int Add(int a, int b) {
+//    return a + b; // 결과 반환
+//}
 
 void PrintMessage() {
     cout << "Hello, Function!" << endl;

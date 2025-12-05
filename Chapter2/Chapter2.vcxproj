@@ -138,6 +138,7 @@
     <ClCompile Include="013_CalculateAverage.cpp" />
     <ClCompile Include="014_NameFormatConversion.cpp" />
     <ClCompile Include="015_PrintScores.cpp" />
+    <ClCompile Include="016_Challenge1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="002_ArrayDeclaration.h" />

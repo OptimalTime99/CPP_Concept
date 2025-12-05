@@ -1,10 +1,5 @@
-﻿  008_FunctionCall_ValueParameter.cpp
-  009_FunctionCall_PointerParameter.cpp
-  010_FunctionCall_ArrayParameter.cpp
-  011_FunctionCall_ReferenceParameter.cpp
-  012_CircleArea.cpp
-  013_CalculateAverage.cpp
-  014_NameFormatConversion.cpp
-  015_PrintScores.cpp
-  코드를 생성하고 있습니다...
+﻿  016_Challenge1.cpp
+C:\development\Project\lecture\Chapter2\016_Challenge1.cpp(6,20): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\development\Project\lecture\Chapter2\016_Challenge1.cpp(7,20): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\development\Project\lecture\Chapter2\016_Challenge1.cpp(8,20): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Chapter2.vcxproj -> C:\development\Project\lecture\x64\Debug\Chapter2.exe

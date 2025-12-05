@@ -13,7 +13,7 @@
 #include "013_CalculateAverage.h"
 #include "014_NameFormatConversion.h"
 #include "015_PrintScores.h"
-
+/*
 int main() {
 	//ArrayDeclaration();
 	//ArrayCopyAssignment();
@@ -32,3 +32,4 @@ int main() {
 	PrintScores();
 	return 0;
 }
+*/
