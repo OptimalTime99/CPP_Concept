@@ -11,6 +11,8 @@
 #include "012_RightAlignedTriangle.h"
 #include "013_UserInputExit.h"
 #include "014_GameLoop.h"
+#include "015_PrintDiamond.h"
+#include "016_TodayRoutine.h"
 
 int main() {
 	//SimpleIf();
@@ -25,7 +27,10 @@ int main() {
 	//MultiplesOf3();
 	//RightAlignedTriangle();
 	//UserInputExit();
-	GameLoop();
+	//GameLoop();
+	//PrintDiamond();
+	TodayRoutine();
+
 
 	return 0;
 }

@@ -137,6 +137,8 @@
     <ClCompile Include="012_RightAlignedTriangle.cpp" />
     <ClCompile Include="013_UserInputExit.cpp" />
     <ClCompile Include="014_GameLoop.cpp" />
+    <ClCompile Include="015_PrintDiamond.cpp" />
+    <ClCompile Include="016_TodayRoutine.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="002_SimpleIf.h" />
@@ -152,6 +154,8 @@
     <ClInclude Include="012_RightAlignedTriangle.h" />
     <ClInclude Include="013_UserInputExit.h" />
     <ClInclude Include="014_GameLoop.h" />
+    <ClInclude Include="015_PrintDiamond.h" />
+    <ClInclude Include="016_TodayRoutine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

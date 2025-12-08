@@ -57,6 +57,12 @@
     <ClCompile Include="014_GameLoop.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="015_PrintDiamond.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="016_TodayRoutine.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="002_SimpleIf.h">
@@ -96,6 +102,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="014_GameLoop.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="015_PrintDiamond.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="016_TodayRoutine.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
