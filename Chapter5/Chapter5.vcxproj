@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a56a46f8-ee16-43e1-a114-7e951554c0f6}</ProjectGuid>
-    <RootNamespace>Chapter4</RootNamespace>
+    <ProjectGuid>{ef6c58c7-9def-4cfe-8bce-97d9d9cfc271}</ProjectGuid>
+    <RootNamespace>Chapter5</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -102,7 +102,6 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -125,51 +124,27 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="000_solution.cpp" />
-    <ClCompile Include="001_ValueAssignment.cpp" />
-    <ClCompile Include="002_ArrayAssignment.cpp" />
-    <ClCompile Include="003_CopyCost_Primitive.cpp" />
-    <ClCompile Include="004_CopyCost_Array.cpp" />
-    <ClCompile Include="005_StoreVariableAddress.cpp" />
-    <ClCompile Include="006_PointerAccess_Array.cpp" />
-    <ClCompile Include="007_PointerTypeAndSize.cpp" />
-    <ClCompile Include="008_PointerCheckAddress.cpp" />
-    <ClCompile Include="009_PointerArithmeticAndDataSize.cpp" />
-    <ClCompile Include="010_PointerReadValue.cpp" />
-    <ClCompile Include="011_PointerWriteValue.cpp" />
-    <ClCompile Include="012_PointerAndVariableRelation.cpp" />
-    <ClCompile Include="013_InvalidPointerTypeProblem.cpp" />
-    <ClCompile Include="014_ProperPointerTypes.cpp" />
-    <ClCompile Include="015_PointerArithmetic.cpp" />
-    <ClCompile Include="016_InvalidPointerAccess.cpp" />
-    <ClCompile Include="017_NullptrSafeUsage.cpp" />
-    <ClCompile Include="018_ArrayBasics_IndexAccess.cpp" />
-    <ClCompile Include="019_PointerArrayAccess.cpp" />
-    <ClCompile Include="020_ArrayNameImmutability.cpp" />
-    <ClCompile Include="021_PointerArray.cpp" />
-    <ClCompile Include="022_ArrayPointer.cpp" />
-    <ClCompile Include="023_PointerArrayVsArrayPointer.cpp" />
-    <ClCompile Include="024_ArrayPointerInvalidExample.cpp" />
-    <ClCompile Include="025_BasicReference.cpp" />
-    <ClCompile Include="026_WrongReferenceUsage.cpp" />
-    <ClCompile Include="027_ReferenceDeclarationVSInitialization.cpp" />
-    <ClCompile Include="028_ReferenceNullptrAvailability.cpp" />
-    <ClCompile Include="029_PointerVSReferenceIndirection.cpp" />
-    <ClCompile Include="030_WrongReferenceExamples.cpp" />
-    <ClCompile Include="031_ConstReferenceBasic.cpp" />
-    <ClCompile Include="032_BadConstReferenceUsage.cpp" />
-    <ClCompile Include="033_ForwardReferenceAndRvalue.cpp" />
-    <ClCompile Include="034_ReferenceReturnLifetime.cpp" />
-    <ClCompile Include="035_Challenge1.cpp" />
-    <ClCompile Include="036_Challenge2.cpp" />
-    <ClCompile Include="037_Challenge3.cpp" />
-    <ClCompile Include="038_calculateAverage.cpp" />
-    <ClCompile Include="039_CallByValue.cpp" />
-    <ClCompile Include="040_CallByPointer.cpp" />
-    <ClCompile Include="041_CallByReference.cpp" />
-    <ClCompile Include="042_CallByPointer2.cpp" />
+    <ClCompile Include="001_NoClassScoreManagement.cpp" />
+    <ClCompile Include="002_DefineStudentClass.cpp" />
+    <ClCompile Include="003_InClassMemberFunction.cpp" />
+    <ClCompile Include="004_OutClassMemberFunction.cpp" />
+    <ClCompile Include="005_AccessPrivate.cpp" />
+    <ClCompile Include="006_AccessPublicPrivate.cpp" />
+    <ClCompile Include="007_GetterSetter.cpp" />
+    <ClCompile Include="008_DefaultConstructor.cpp" />
+    <ClCompile Include="009_HaveParameter.cpp" />
+    <ClCompile Include="010_HaveDefaultParameter.cpp" />
+    <ClCompile Include="011_WrongDeliverParameterError.cpp" />
+    <ClCompile Include="012_NoDefineError.cpp" />
+    <ClCompile Include="013_WrongCallDefaultParameterError.cpp" />
+    <ClCompile Include="014_Input3Constructor.cpp" />
+    <ClCompile Include="015_DefaultParameterInConstructor.cpp" />
+    <ClCompile Include="017_DefineStudentClassInCPP.cpp" />
+    <ClCompile Include="018_DefineStudentClassInMainCPP.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="000_solution.h" />
+    <ClInclude Include="016_Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
