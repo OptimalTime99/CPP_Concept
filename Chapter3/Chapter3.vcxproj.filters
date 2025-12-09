@@ -69,6 +69,9 @@
     <ClCompile Include="018_Challenge2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="019_While.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="002_SimpleIf.h">

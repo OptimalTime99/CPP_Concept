@@ -141,6 +141,7 @@
     <ClCompile Include="016_TodayRoutine.cpp" />
     <ClCompile Include="017_Challenge1.cpp" />
     <ClCompile Include="018_Challenge2.cpp" />
+    <ClCompile Include="019_While.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="002_SimpleIf.h" />
