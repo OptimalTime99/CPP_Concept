@@ -139,6 +139,8 @@
     <ClCompile Include="014_GameLoop.cpp" />
     <ClCompile Include="015_PrintDiamond.cpp" />
     <ClCompile Include="016_TodayRoutine.cpp" />
+    <ClCompile Include="017_Challenge1.cpp" />
+    <ClCompile Include="018_Challenge2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="002_SimpleIf.h" />

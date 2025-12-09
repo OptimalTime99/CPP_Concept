@@ -1,4 +1,5 @@
 #include <iostream>
+#include "005_ArrayInputOutput.h"
 using namespace std;
 
 // 배열 원소를 개별적으로 입력 및 출력하는 예제 (반복문 없이)

@@ -28,5 +28,9 @@ int main() {
 
 	//DefaultParameterInConstructor();
 
-    DefineStudentClassInMainCPP();
+    //DefineStudentClassInMainCPP();
+
+	//Challenge1();
+
+	Challenge2();
 }

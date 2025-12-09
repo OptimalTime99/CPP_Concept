@@ -1,4 +1,5 @@
 #include <iostream>
+#include "002_ArrayDeclaration.h"
 using namespace std;
 
 // 배열 선언과 초기화 예제

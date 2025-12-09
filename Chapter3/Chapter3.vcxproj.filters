@@ -63,6 +63,12 @@
     <ClCompile Include="016_TodayRoutine.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="017_Challenge1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="018_Challenge2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="002_SimpleIf.h">

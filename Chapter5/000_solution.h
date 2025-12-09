@@ -26,3 +26,7 @@ void DefaultParameterInConstructor();
 
 void DefineStudentClassInMainCPP();
 
+int Challenge1();
+
+int Challenge2();
+

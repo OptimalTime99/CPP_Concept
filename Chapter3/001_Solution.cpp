@@ -1,3 +1,4 @@
+/*
 #include "002_SimpleIf.h"
 #include "003_IfElse.h"
 #include "004_IfElseIfElse.h"
@@ -29,8 +30,8 @@ int main() {
 	//UserInputExit();
 	//GameLoop();
 	//PrintDiamond();
-	TodayRoutine();
-
+	//TodayRoutine();
 
 	return 0;
 }
+*/

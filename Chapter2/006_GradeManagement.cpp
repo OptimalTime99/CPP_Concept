@@ -1,4 +1,5 @@
 #include <iostream>
+#include "006_GradeManagement.h"
 
 using namespace std;
 

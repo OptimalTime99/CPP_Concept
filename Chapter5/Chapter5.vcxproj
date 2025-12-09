@@ -141,6 +141,8 @@
     <ClCompile Include="015_DefaultParameterInConstructor.cpp" />
     <ClCompile Include="017_DefineStudentClassInCPP.cpp" />
     <ClCompile Include="018_DefineStudentClassInMainCPP.cpp" />
+    <ClCompile Include="019_Challenge1.cpp" />
+    <ClCompile Include="020_Challenge2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="000_solution.h" />

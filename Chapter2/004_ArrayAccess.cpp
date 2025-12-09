@@ -1,4 +1,5 @@
 #include <iostream>
+#include "004_ArrayAccess.h"
 using namespace std;
 
 // 배열을 선언하고 [] 연산자로 접근하는 예제
