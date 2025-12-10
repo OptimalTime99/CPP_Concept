@@ -93,3 +93,8 @@ void CallByValue();
 void CallByPointer();
 
 void CallByReference();
+
+void PrintNumber(int* pNumber);
+
+void SwapByPointer(int* pA, int* pB);
+void SwapByReference(int& refA, int& refB);

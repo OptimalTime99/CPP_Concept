@@ -36,6 +36,9 @@
     <ClCompile Include="006_PureVirtualFunction.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="007_Problem_PrintCellPhoneInfo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Solution.h">

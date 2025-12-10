@@ -144,6 +144,15 @@
     <ClCompile Include="042_CallByPointer2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="043_Challenge1_PrintNumber.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="044_Challenge2_SwapByPointerReference.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="045_DoublePointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="000_solution.h">

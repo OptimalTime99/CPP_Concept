@@ -167,6 +167,9 @@
     <ClCompile Include="040_CallByPointer.cpp" />
     <ClCompile Include="041_CallByReference.cpp" />
     <ClCompile Include="042_CallByPointer2.cpp" />
+    <ClCompile Include="043_Challenge1_PrintNumber.cpp" />
+    <ClCompile Include="044_Challenge2_SwapByPointerReference.cpp" />
+    <ClCompile Include="045_DoublePointer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="000_solution.h" />

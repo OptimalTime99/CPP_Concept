@@ -130,6 +130,7 @@
     <ClCompile Include="004_Polymorphism2.cpp" />
     <ClCompile Include="005_VirtualFunction.cpp" />
     <ClCompile Include="006_PureVirtualFunction.cpp" />
+    <ClCompile Include="007_Problem_PrintCellPhoneInfo.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Solution.h" />
